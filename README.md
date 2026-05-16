@@ -21,8 +21,6 @@ Execute the C Program for the desired output.
 
 ## 1.To Write a C program that illustrates files copying 
 ```
-
-
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -72,7 +70,6 @@ int main(int argc, char *argv[]) {
     close(out);
     return EXIT_SUCCESS;
 }
-
 ```
 
 ## OUTPUT
@@ -83,7 +80,7 @@ int main(int argc, char *argv[]) {
 //C program that illustrates files locking goes here
 #include <fcntl.h>
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h
 #include <unistd.h>
 #include <sys/file.h>
 
@@ -147,10 +144,10 @@ int main(int argc, char *argv[]) {
 }
 ```
 
+## OUTPUT
 
-
-
-
+<img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/dc2396a2-660d-4224-a8aa-5de313c3a69b" />
+<img width="1366" height="402" alt="image" src="https://github.com/user-attachments/assets/d146855d-389f-4cf7-b498-456ac18d93e9" />
 
 
 # RESULT:
